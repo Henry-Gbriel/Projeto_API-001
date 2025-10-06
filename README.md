@@ -1,11 +1,11 @@
-# 🚗 API de Gerenciamento de Carros (Flask)
+# API de Gerenciamento de Carros (Flask)
 
 Uma API simples desenvolvida com **Flask** para gerenciar uma lista de carros — permitindo **consultar, adicionar, atualizar e excluir** registros.  
 Ideal para fins de estudo ou como base para projetos RESTful em Python.
 
 ---
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 | Método | Endpoint | Descrição |
 |--------|-----------|-----------|
@@ -17,7 +17,7 @@ Ideal para fins de estudo ou como base para projetos RESTful em Python.
 
 ---
 
-## 🧱 Estrutura de Dados
+##  Estrutura de Dados
 
 Cada carro é representado por um dicionário com os seguintes campos:
 
@@ -28,7 +28,7 @@ Cada carro é representado por um dicionário com os seguintes campos:
   "modelo": "Mobi",
   "ano": 2026
 }
-
+```
 <h2>📄 Licença</h2>
 <p>Este projeto está licenciado sob a <a href="LICENSE">MIT License</a>.</p>
     
